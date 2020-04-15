@@ -1,0 +1,3 @@
+pylint --> isort, mccabe, lazy-object-proxy, wrapt, astroid, pylint
+
+autopep8 --> autopep8-1.5.1, pycodestyle-2.5.0
